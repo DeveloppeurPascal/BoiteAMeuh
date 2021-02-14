@@ -85,11 +85,11 @@ begin
       pet := tpet.Sheep
     else
       pet := tpet.none;
+    if pet = currentpet then
+      ScoreOK
+    else
+      GameOver;
   end;
-  if pet = currentpet then
-    ScoreOK
-  else
-    GameOver;
 end;
 
 procedure TfrmGame.btnPauseClick(Sender: TObject);
