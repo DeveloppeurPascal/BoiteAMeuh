@@ -7811,7 +7811,7 @@ object frmGame: TfrmGame
       OnClick = btnPetClick
       object Rectangle4: TRectangle
         Align = Client
-        Fill.Bitmap.WrapMode = TileOriginal
+        Fill.Bitmap.WrapMode = TileStretch
         Fill.Kind = Bitmap
         HitTest = False
         Margins.Left = 5.000000000000000000
@@ -9001,8 +9001,8 @@ object frmGame: TfrmGame
             0882103CE0E095C1C96EFEEA57BF3AE40D466CF5FFEC673F1BBA370709D98781
             02EEA356DAE73EF739796DA9200842A8318CFF1FAD9F8AD1DADCE6C000000000
             49454E44AE426082}
-          AnimationCount = 18
-          AnimationRowCount = 7
+          AnimationCount = 21
+          AnimationRowCount = 3
           Enabled = True
           Duration = 0.500000000000000000
           Loop = True
