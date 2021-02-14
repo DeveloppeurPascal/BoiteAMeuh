@@ -7789,7 +7789,7 @@ object frmGame: TfrmGame
             4617C12065997B07E89FD2B72AE6F30586678F1D4950458F2008822008822008
             82200882200882200882200882203A0F63FF7FD972174DEBF603DE0000000049
             454E44AE426082}
-          AnimationCount = 18
+          AnimationCount = 21
           AnimationRowCount = 3
           Enabled = True
           Duration = 0.500000000000000000
