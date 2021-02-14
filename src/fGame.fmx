@@ -86,7 +86,7 @@ object frmGame: TfrmGame
       OnClick = btnPetClick
       object Rectangle1: TRectangle
         Align = Client
-        Fill.Bitmap.WrapMode = TileOriginal
+        Fill.Bitmap.WrapMode = TileStretch
         Fill.Kind = Bitmap
         HitTest = False
         Margins.Left = 5.000000000000000000
@@ -1836,7 +1836,7 @@ object frmGame: TfrmGame
       OnClick = btnPetClick
       object Rectangle2: TRectangle
         Align = Client
-        Fill.Bitmap.WrapMode = TileOriginal
+        Fill.Bitmap.WrapMode = TileStretch
         Fill.Kind = Bitmap
         HitTest = False
         Margins.Left = 5.000000000000000000
@@ -6321,7 +6321,7 @@ object frmGame: TfrmGame
       OnClick = btnPetClick
       object Rectangle3: TRectangle
         Align = Client
-        Fill.Bitmap.WrapMode = TileOriginal
+        Fill.Bitmap.WrapMode = TileStretch
         Fill.Kind = Bitmap
         HitTest = False
         Margins.Left = 5.000000000000000000
@@ -9023,7 +9023,7 @@ object frmGame: TfrmGame
       OnClick = btnPetClick
       object Rectangle5: TRectangle
         Align = Client
-        Fill.Bitmap.WrapMode = TileOriginal
+        Fill.Bitmap.WrapMode = TileStretch
         Fill.Kind = Bitmap
         HitTest = False
         Margins.Left = 5.000000000000000000
@@ -9530,7 +9530,7 @@ object frmGame: TfrmGame
       OnClick = btnPetClick
       object Rectangle6: TRectangle
         Align = Client
-        Fill.Bitmap.WrapMode = TileOriginal
+        Fill.Bitmap.WrapMode = TileStretch
         Fill.Kind = Bitmap
         HitTest = False
         Margins.Left = 5.000000000000000000
@@ -12190,7 +12190,7 @@ object frmGame: TfrmGame
       OnClick = btnPetClick
       object Rectangle7: TRectangle
         Align = Client
-        Fill.Bitmap.WrapMode = TileOriginal
+        Fill.Bitmap.WrapMode = TileStretch
         Fill.Kind = Bitmap
         HitTest = False
         Margins.Left = 5.000000000000000000
