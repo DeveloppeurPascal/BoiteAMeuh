@@ -1,8 +1,13 @@
-toro.png => https://opengameart.org/content/bull-run-cycle
-lpccatratdog.png => https://opengameart.org/content/lpc-rat-cat-and-dog
-chicken.png => https://opengameart.org/content/chiken-animation
-vaca.png => https://opengameart.org/content/cow-run-cycle
-https://opengameart.org/content/horse-run-cycle
+toro.png from https://opengameart.org/content/bull-run-cycle
 
-caballoNormal.png
-caballoNegro.png
+lpccatratdog.png from https://opengameart.org/content/lpc-rat-cat-and-dog
+
+chicken.png from https://opengameart.org/content/chiken-animation
+
+vaca.png from https://opengameart.org/content/cow-run-cycle
+
+caballoNormal.png from https://opengameart.org/content/horse-run-cycle
+
+caballoNegro.png from https://opengameart.org/content/horse-run-cycle
+
+You need to check the license from the site to use this pictures in your project. They are provided there as samples and can't be distribute without this project.
