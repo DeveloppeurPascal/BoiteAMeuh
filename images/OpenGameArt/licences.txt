@@ -1,0 +1,8 @@
+toro.png => https://opengameart.org/content/bull-run-cycle
+lpccatratdog.png => https://opengameart.org/content/lpc-rat-cat-and-dog
+chicken.png => https://opengameart.org/content/chiken-animation
+vaca.png => https://opengameart.org/content/cow-run-cycle
+https://opengameart.org/content/horse-run-cycle
+
+caballoNormal.png
+caballoNegro.png

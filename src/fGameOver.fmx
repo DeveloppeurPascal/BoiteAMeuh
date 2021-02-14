@@ -1,0 +1,53 @@
+object frmGameOver: TfrmGameOver
+  Left = 0
+  Top = 0
+  Caption = 'Boite '#224' Meuh !'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  FullScreen = True
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Align = Center
+    Size.Width = 282.000000000000000000
+    Size.Height = 186.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Text1: TText
+      Align = Top
+      Size.Width = 282.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Game Over !'
+      TextSettings.Font.Size = 30.000000000000000000
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    object txtScore: TText
+      Align = Top
+      Position.Y = 50.000000000000000000
+      Size.Width = 282.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 20.000000000000000000
+    end
+    object Layout2: TLayout
+      Align = Top
+      Position.Y = 100.000000000000000000
+      Size.Width = 282.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      object btnHome: TButton
+        Align = Center
+        Cancel = True
+        Default = True
+        TabOrder = 0
+        Text = 'Home'
+        OnClick = btnHomeClick
+      end
+    end
+  end
+end

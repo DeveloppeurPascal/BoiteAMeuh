@@ -1,0 +1,74 @@
+object frmMain: TfrmMain
+  Left = 0
+  Top = 0
+  Caption = 'Boite '#224' Meuh !'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  FullScreen = True
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Align = Center
+    Size.Width = 273.000000000000000000
+    Size.Height = 212.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Text1: TText
+      Align = Top
+      AutoSize = True
+      Size.Width = 273.000000000000000000
+      Size.Height = 39.902343750000000000
+      Size.PlatformDefault = False
+      Text = 'Boite '#224' Meuh !'
+      TextSettings.Font.Size = 30.000000000000000000
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    object zonePlay: TLayout
+      Align = Top
+      Position.Y = 39.902343750000000000
+      Size.Width = 273.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object btnPlay: TButton
+        Align = Center
+        TabOrder = 0
+        Text = 'Play'
+        OnClick = btnPlayClick
+      end
+    end
+    object zoneContinue: TLayout
+      Align = Top
+      Position.Y = 89.902343750000000000
+      Size.Width = 273.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object btnContinue: TButton
+        Align = Center
+        TabOrder = 0
+        Text = 'Continue'
+        OnClick = btnContinueClick
+      end
+    end
+    object zoneQuit: TLayout
+      Align = Top
+      Position.Y = 139.902343750000000000
+      Size.Width = 273.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      object btnQuit: TButton
+        Align = Center
+        Cancel = True
+        Default = True
+        TabOrder = 0
+        Text = 'Quit'
+        OnClick = btnQuitClick
+      end
+    end
+  end
+end
