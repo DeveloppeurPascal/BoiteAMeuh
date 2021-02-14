@@ -8,6 +8,8 @@ Voyez le comme une façon de faire pour jouer des animations et des sons dans un
 
 Ce programme a été réalisé à l'occasion d'un livestream sur Twitch le dimanche 14 février 2021. Pour voir sa redifusion ou les sessions suivantes, rendez-vous sur https://www.twitch.tv/patrickpremartin
 
+Une démo du jeu est disponible sur https://youtu.be/9qJbn4vb_L4
+
 -----
 
 Défauts connus :
