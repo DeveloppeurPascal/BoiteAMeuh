@@ -6,9 +6,13 @@ Fait en 3 heures il n'y a que les bases. Les images et les sons sont à revoir s
 
 Voyez le comme une façon de faire pour jouer des animations et des sons dans un logiciel sans fioritures spécifiques.
 
-Ce programme a été réalisé à l'occasion d'un livestream sur Twitch le dimanche 14 février 2021. Pour voir sa redifusion ou les sessions suivantes, rendez-vous sur https://www.twitch.tv/patrickpremartin
-
 Une démo du jeu est disponible sur https://youtu.be/9qJbn4vb_L4
+
+Plus d'infos sur ce projet et revoir sa session de codage en direct sous Delphi sur https://developpeur-pascal.fr/p/_300a-live-stream-delphi-du-14-fevrier-2021-codage-d-un-jeu-video-pour-feter-les-26-ans-de-delphi.html
+
+Pour connaître le programme des prochains live streams Twitch, rendez-vous sur https://developpeur-pascal.fr/p/_600e-livestreams-de-codage-en-direct-avec-delphi.html
+
+Et pour me suivre sur Twitch, rendez-vous sur https://www.twitch.tv/patrickpremartin dès maintenant. Vous serez y averti automatiquement des prochaines sessions.
 
 -----
 
