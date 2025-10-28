@@ -56,9 +56,9 @@ begin
   if not result.isempty then
 {$IFDEF DEBUG}
     result := tpath.combine(tpath.getdirectoryname(paramstr(0)),
-      '..\..\..\sound\') + result;
+      '..\..\..\_PRIVATE\sound\') + result;
 {$ELSE}
-    // TODO : gérer chemin selon platform (Win, iOs, macOS, Linux, Android)
+    // TODO : gérer chemin selon platform (Win, iOS, macOS, Linux, Android)
 {$ENDIF}
 end;
 
