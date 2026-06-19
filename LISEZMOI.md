@@ -2,6 +2,19 @@
 
 [This page in English.](README.md)
 
+> [!WARNING]
+> Suite à la décision de Microsoft de fondre GitHub dans sa division IA à l'été 2025 et donc de ne considérer ce que nous publions dessus que comme une source d'entrainement de ses modèles sans contre partie (à part l'hébergement des codes sources) ou nous abreuver de leurs injonctions à utiliser Copilot partout, pour tout et n'importe quoi, j'ai pris la décision d'arrêter la maintenance des dépôts ici.
+>
+> La maintenance de ce projet est déplacée vers Codeberg sur https://codeberg.org/Gamolf/BoiteAMeuh
+>
+> Codeberg est un hébergement associatif situé en Europe, respectueux des développeurs, de la licence de chaque projet et de la vie privée des personnes qui s'y connectent.
+
+> [!NOTE]
+> Pour ouvrir ou intervenir sur un ticket de ce projet, rendez-vous sur https://codeberg.org/Gamolf/BoiteAMeuh/issues
+> Pour faire un PULL REQUEST sur ce projet, rendez-vous sur https://codeberg.org/Gamolf/BoiteAMeuh/pulls
+> Pour toute autre information ou me contacter vous pouvez aussi consulter le site Internet du projet sur https://boiteameuh.gamolf.fr ou son devlog sur https://developpeur-pascal.fr/boite-a-meuh.html
+> Ce dépôt de code sera archivé une fois la migration terminée et ne bénéficiera plus de mise à jour sur GitHub.
+
 Ce programme est un petit jeu vidéo pour que les parents apprenent les bruits d'animaux à leurs enfants. Ca peut aussi les inciter à jeter leur ordinaeur par la fenêtre, donc n'en abusez pas !
 
 Fait en 3 heures il n'y a que les bases. Les images et les sons sont à revoir si vous voulez en faire quelque chose de plus intelligent à usage personnel.
@@ -32,7 +45,7 @@ Suivez mes streams de développement de logiciels, jeux vidéo, applications mob
 
 ## Installation des codes sources
 
-Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/BoiteAMeuh).
+Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt Codeberg](https://codeberg.org/Gamolf/BoiteAMeuh).
 
 ## Documentation et assistance
 
@@ -54,7 +67,7 @@ Normalement mes librairies et composants doivent aussi fonctionner au moins sur 
 
 Aucune garantie de compatibilité avec des versions antérieures n'est fournie même si je m'efforce de faire du code propre et ne pas trop utiliser les nouvelles façons d'écrire dedans (type inference, inline var et multilines strings).
 
-Si vous détectez des anomalies sur des versions antérieures n'hésitez pas à [les rapporter](https://github.com/DeveloppeurPascal/BoiteAMeuh/issues) pour que je teste et tente de corriger ou fournir un contournement.
+Si vous détectez des anomalies sur des versions antérieures n'hésitez pas à [les rapporter](https://codeberg.org/Gamolf/BoiteAMeuh/issues) pour que je teste et tente de corriger ou fournir un contournement.
 
 ## Licence d'utilisation de ce dépôt de code et de son contenu
 
@@ -73,7 +86,7 @@ Les codes sources de ce dépôt de code comme leur éventuelle version compilée
 
 ## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
 
-Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/BoiteAMeuh) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/BoiteAMeuh/issues).
+Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur Codeberg](https://codeberg.org/Gamolf/BoiteAMeuh) et [d'ouvrir un ticket](https://codeberg.org/Gamolf/BoiteAMeuh/issues).
 
 Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
 
